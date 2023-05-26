@@ -1,0 +1,5 @@
+I have a randomly generated file with user registration protocol on the site
+Each line contains name an email and age separated by spaces, for example Name email@company.com 18
+The program checks the data for each line and as a result of the check it generates two files
+registrations_good for correct data
+registrations_bad for erroneous
